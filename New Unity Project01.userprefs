@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MoveScript.js">
+    <Files>
+      <File FileName="Assets\PlayScript.js" Line="4" Column="2" />
+      <File FileName="Assets\MoveScript.js" Line="14" Column="27" />
+      <File FileName="Assets\TriggerScript.js" Line="22" Column="2" />
+      <File FileName="Assets\TargetScript.js" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
